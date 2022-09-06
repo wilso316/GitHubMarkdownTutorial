@@ -7,8 +7,8 @@ This is my first GitHubMarkdown tutorial repository.
 
 * with more **info**
 * blah 
-* blah 
-* boop beep bop
+* ~~strike out~~
+* >Block quote
 
 [WNCC's Website](https://wncc.edu)
 
